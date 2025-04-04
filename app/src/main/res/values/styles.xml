@@ -1,0 +1,29 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.EnglishLearner" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+    </style>
+
+    <!-- Theme for dialogs -->
+    <style name="Theme.EnglishLearner.Dialog" parent="ThemeOverlay.MaterialComponents.Dialog">
+        <item name="dialogCornerRadius">8dp</item>
+    </style>
+
+    <!-- Button style -->
+    <style name="Button.Primary" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="backgroundTint">@color/colorPrimary</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+
+    <!-- Text input style -->
+    <style name="TextInputLayout.Primary" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/colorPrimary</item>
+        <item name="hintTextColor">@color/colorPrimary</item>
+    </style>
+</resources>
