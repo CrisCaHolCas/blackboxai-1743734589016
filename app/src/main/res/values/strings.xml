@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">English Learner</string>
+    
+    <!-- Authentication -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="or">or</string>
+    <string name="create_account">Create Account</string>
+    
+    <!-- Story Management -->
+    <string name="add_story">Add Story</string>
+    <string name="story_title">Story Title</string>
+    <string name="story_content">Story Content</string>
+    <string name="type_your_story_here">Type your story here...</string>
+    <string name="tap_words_to_mark_for_learning">Tap words to mark them for learning</string>
+    <string name="save_story">Save Story</string>
+    
+    <!-- Learning Modes -->
+    <string name="read_story">Read Story</string>
+    <string name="voice_input">Voice Input</string>
+    <string name="text_input">Text Input</string>
+    
+    <!-- Story Options -->
+    <string name="read_mode">Read Mode</string>
+    <string name="interactive_mode">Interactive Mode</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
